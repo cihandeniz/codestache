@@ -16,7 +16,7 @@ function $function$(/* # */$parameter$) {
 /* / */
 ```
 
-`LANGUAGE: js.json`
+`LANGUAGE: js.codestache.json`
 
 ```json
 {

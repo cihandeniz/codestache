@@ -22,7 +22,7 @@ Array syntax is still valid;
 /* #parent */
 var $parent$ =  {
     /* #child */
-    $child$: "value$"
+    $child$: "$value$"
     /* / */
 };
 /* / */
